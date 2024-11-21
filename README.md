@@ -1,6 +1,6 @@
 # Optimizing Cost and Profitability Case Study
 
-![Optimizing_cost](optimizing_cost.jpg)
+![Optimizing_cost](workspace/optimizing_cost.jpg)
 
 ## Problem Statement:
 
@@ -18,4 +18,4 @@ The task is to conduct:
 
 **Impact Simulation of Proposed Strategies:** Simulating the financial impact of the recommended strategies on profitability, using the dataset to forecast how adjustments in commission rates and discount strategies could potentially transform current losses into profits.<br><br>
 
-The detailed analysis can be found [here.]()
+The detailed analysis can be found [here.](https://github.com/elijah-alabi-ng/Optimizing_Cost_and_Profitability_Case_Study/blob/main/workspace/optimizing_cost_and_profitability_analysis.ipynb)
